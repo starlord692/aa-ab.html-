@@ -1,0 +1,32 @@
+h5{
+    background-attachment: local;
+    background-color: rgb(188, 200, 219);
+ 
+}
+p{
+    background-color: beige;
+    size: 125px;
+}
+body{
+    background-image: url("rtrr.jpeg");
+    background-repeat: no-repeat;
+    background-image: -webkit-image-set(rgb);
+    animation: forwards;
+    background-size: cover;
+  
+}
+class{
+    align-items: center;
+    animation: backwards;
+}
+.card{
+    margin: 10px;
+    align-items: flex-start;
+}
+p{
+    text-transform: uppercase;
+    text-align: center;
+}
+hr{
+    width: 125px;
+}
